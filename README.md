@@ -9,10 +9,6 @@ You can contact me by [mail](mailto:contact@pixilie.net) 📫 or with discord (`
 
 ### In progress
 
--   **vocal-time-counter** [[GitHub](https://github.com/pixilie/vocal-time-counter/)]
-
-    > A Discord bot that tracks the time you spend in voice channels
-
 -   **nix-configuration** [[GitHub](https://github.com/pixilie/nix-configuration/)]
 
     > Nix files containing my computer and desktop configuration
@@ -20,6 +16,10 @@ You can contact me by [mail](mailto:contact@pixilie.net) 📫 or with discord (`
 -   **hypixel-bank-tracker** [[GitHub](https://github.com/pixilie/hypixel-bank-tracker/)]
 
     > A website allowing you to track your Hypixel Skyblock coop account
+
+-   **destructeur-2-mots** [[GitHub](https://github.com/pixilie/destructeur-2-mots/tree/submit-version)]
+
+    > An OCR (Optical Character Recognition) system that reads an image of a word-search puzzle and solves the hidden-words grid. 
 
 ### Stale/Finished
 
@@ -30,6 +30,10 @@ You can contact me by [mail](mailto:contact@pixilie.net) 📫 or with discord (`
 -   **traffic-lights** [[GitHub](https://github.com/pixilie/traffic-lights/)]
 
     > Simple video game where you have to manage traffic lights to win
+
+-   **vocal-time-counter** [[GitHub](https://github.com/pixilie/vocal-time-counter/)]
+
+    > A Discord bot that tracks the time you spend in voice channels
 
 -   **meteor** [[GitHub](https://github.com/pixilie/meteor/)]
 
