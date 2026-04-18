@@ -13,13 +13,13 @@ You can contact me by [mail](mailto:contact@pixilie.net) 📫 or with discord (`
 
     > Nix files containing my computer and desktop configuration
 
+-   **UniConnect** [[GitHub](https://github.com/pixilie/UniConnect/)]
+
+    > A role-based academic communication platform for students and teachers, featuring class chats, announcements, schedules, events, and more... 
+
 -   **hypixel-bank-tracker** [[GitHub](https://github.com/pixilie/hypixel-bank-tracker/)]
 
     > A website allowing you to track your Hypixel Skyblock coop account
-
--   **destructeur-2-mots** [[GitHub](https://github.com/pixilie/destructeur-2-mots/tree/submit-version)]
-
-    > An OCR (Optical Character Recognition) system that reads an image of a word-search puzzle and solves the hidden-words grid. 
 
 ### Stale/Finished
 
@@ -35,13 +35,10 @@ You can contact me by [mail](mailto:contact@pixilie.net) 📫 or with discord (`
 
     > A Discord bot that tracks the time you spend in voice channels
 
--   **meteor** [[GitHub](https://github.com/pixilie/meteor/)]
+-   **destructeur-2-mots** [[GitHub](https://github.com/pixilie/destructeur-2-mots/tree/submit-version)]
 
-    > Minimalist weather app
+    > An OCR (Optical Character Recognition) system that reads an image of a word-search puzzle and solves the hidden-words grid. 
 
--   **steambot** [[GitHub](https://github.com/pixilie/steambot/)]
-
-    > A discord bot to check your Steam statistics
 
 ## Metrics  <img src="https://wakatime.com/badge/user/0ebf63dd-06b9-44c5-9f1f-54c54f263777.svg" alt="Total time coded since Apr 12 2023" align="right"/>
 
